@@ -1,0 +1,8 @@
+
+    I think the three roles would be the project manager, the code developers, and code testers. There can also be a role for writing the paper but that may be better if it is collaboritive.
+    Changes can be made by creating branches where each collaborator can work on their piece of code without altering the main code, and then they can merge the branch back into the main. People can also work on the main code separately with no one else working on it at the same time, and then push the code for others to pull.
+    Commit messages would show what changes were made to the code. These messages should be useful for others to know what was done and should be easy to understand. I think the commit messages would only be a few words to consisely show what was changed in the code or what was corrected.
+    The code developers should use branches to work on code while there are multiple people making changes at the same time, or perhaps when there is an error in the main code so they are working on certain parts of the code to work around the errors. The branches should also have useful names that show which part of the code they are focused on. These branches can be merged when the group agrees that merging the code will help the project.
+
+
+Since this new member has not coded before, they can work alongside the lead developers to learn proper coding techniques and how to work collaboratively using git. The new member should also make sure to create a branch for their work that can be tested separately to make sure that incorrect code is not merged with the main code. After the new members code is approved, it can be pushed to the rest of the team. They should also make sure to create desciptive commit messages and branch names. 
